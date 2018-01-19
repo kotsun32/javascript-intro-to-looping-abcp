@@ -13,5 +13,5 @@ for (var i = 0; i < 25; i++) {
 function whileLoop(n) {
   let countdown
   while (countdown > 0)
-  console.log()
+  console.log(--countdown)
 }
