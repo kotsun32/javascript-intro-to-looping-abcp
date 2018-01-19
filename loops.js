@@ -29,5 +29,4 @@ function doWhileLoop(array) {
       
     
     
-  }
-}
+  
